@@ -1,7 +1,7 @@
--👋 Hi! My name is Elias Granlind and I’m currently studying Systems Science at Dalarna University.
--💻 I’m passionate about IT, programming, and technology – with experience in SQL, networks, JavaScript, CSS & HTML.
--🌍 Languages: Swedish (native), English (fluent), and Norwegian (professional proficiency).
--🚀 My goal is to grow as a developer and contribute with creative and sustainable solutions within the IT field.
+- 👋 Hi! My name is Elias Granlind and I’m currently studying Systems Science at Dalarna University.
+- 💻 I’m passionate about IT, programming, and technology – with experience in SQL, networks, JavaScript, CSS & HTML.
+- 🌍 Languages: Swedish (native), English (fluent), and Norwegian (professional proficiency).
+- 🚀 My goal is to grow as a developer and contribute with creative and sustainable solutions within the IT field.
 <!--
 **CodeCatNap/CodeCatNap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
